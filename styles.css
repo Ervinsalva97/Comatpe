@@ -19,6 +19,13 @@ h1 {
     z-index: 1;
 }
 
+h2 {
+    font-size: 25px;
+    color: #4d2101cd;
+    margin-top: 20px;
+    z-index: 1;
+}
+
 .flower-container {
     display: flex;
     flex-wrap: wrap;
